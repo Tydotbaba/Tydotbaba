@@ -12,4 +12,4 @@ I'm a software engineer from Nigeria.
 - 📫 How to reach me: oyes2011@gmail.com 
 - 😄 Pronouns: he
 - ⚡ Fun fact: loves swimming 
-
+- 🤔 Notice: I’m looking for help with getting my next role
