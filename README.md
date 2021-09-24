@@ -2,11 +2,9 @@
 
 
 I'm a software engineer from Nigeria.
-
-
-- 🔭 I’m currently working on an open source project 
-- 🌱 I’m currently studying machine learning and AI
-- 👯 I’m looking to collaborate on open source projects 
+- 🔭 I’m currently studying MSc Mechatronics at University of Gloucestershire, UK
+- 🌱 Learning machine learning and AI
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m available for remote jobs 
 - 💬 Ask me about all things python 
 - 📫 How to reach me: oyes2011@gmail.com 
